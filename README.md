@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mylespedronan
 - 👀 I’m interested in Embedded Software Engineering
-- 🌱 I’m currently learning C/ARM Architecture/STM32
+- 🌱 I’m currently learning C/ARM Architecture/STM32/Zephyr
 - 💞️ I’m looking to collaborate on embedded projects
 - 📫 How to reach me: myles.pedronan@gmail.com
 
